@@ -1,7 +1,7 @@
 {
   "name": "nodejs_demo",
-  "version": "0.1.1",
-  "homepage": "https://ozy-viking.github.io/nodejs_demo/",
+  "version": "0.1.3",
+  "homepage": "https://Ozy-Viking.github.io/nodejs_demo/",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
